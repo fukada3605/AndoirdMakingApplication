@@ -1,0 +1,4 @@
+#Thu Aug 13 13:09:30 GMT+09:00 2020
+base.0=D\:\\androidMakingApplication\\ImageExtraction\\app\\build\\intermediates\\dex\\debug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
